@@ -1,0 +1,74 @@
+{
+  "records": [
+    {
+      "id": "1",
+      "date": "2025-11-30",
+      "employeeId": 1,
+      "name": "小雅",
+      "startTime": "08:00",
+      "endTime": "17:00",
+      "totalHours": 8,
+      "workHours": 8,
+      "overtimeHours": 0,
+      "remark": ""
+    },
+    {
+      "id": "b93f",
+      "date": "2025-11-30",
+      "employeeId": "5",
+      "startTime": "09:00",
+      "endTime": "22:00",
+      "remark": "",
+      "name": "况青2",
+      "totalHours": 13,
+      "workHours": 9,
+      "overtimeHours": 4
+    },
+    {
+      "id": "1b79",
+      "date": "2025-11-29",
+      "employeeId": "2",
+      "startTime": null,
+      "endTime": "",
+      "remark": "休息",
+      "name": "刘春芳",
+      "totalHours": 0,
+      "workHours": 0,
+      "overtimeHours": 0
+    },
+    {
+      "id": "3842",
+      "date": "2025-11-28",
+      "employeeId": "3",
+      "startTime": "07:21",
+      "endTime": "11:42",
+      "remark": "",
+      "name": "陈晓兰",
+      "totalHours": 4.4,
+      "workHours": 4.4,
+      "overtimeHours": 0
+    }
+  ],
+  "employees": [
+    {
+      "name": "小雅",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "刘春芳"
+    },
+    {
+      "id": "3",
+      "name": "陈晓兰"
+    },
+    {
+      "id": "4",
+      "name": "陈晓文"
+    },
+    {
+      "name": "况青",
+      "id": "5"
+    }
+  ]
+}
