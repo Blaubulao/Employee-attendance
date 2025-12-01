@@ -47,6 +47,18 @@
       "totalHours": 4.4,
       "workHours": 4.4,
       "overtimeHours": 0
+    },
+    {
+      "id": "0cdf",
+      "date": "2025-11-12",
+      "employeeId": "5",
+      "startTime": "06:00",
+      "endTime": "00:00",
+      "remark": "",
+      "name": "况青",
+      "totalHours": 18,
+      "workHours": 9,
+      "overtimeHours": 9
     }
   ],
   "employees": [
